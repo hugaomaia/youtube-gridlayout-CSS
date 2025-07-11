@@ -1,4 +1,4 @@
-# Desafio de Código DIO - Reproduzindo listagem do Youtube com Grid Layout - CSS #
+# Desafio de Código DIO - Reproduzindo listagem do Youtube com Grid Layout - HTML/CSS #
 
 Projeto de HTML e CSS, copiando uma página do youtube utilizando flexbox e grid layout.
 
